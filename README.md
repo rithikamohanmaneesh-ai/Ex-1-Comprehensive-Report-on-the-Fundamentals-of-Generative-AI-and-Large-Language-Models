@@ -64,6 +64,9 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
+file:///C:/Users/acer/Desktop/prompt%20ex1.pdf
 
 
 Result:
+Generative AI and LLMs revolutionize communication, creativity, productivity, and industries, shaping a smarter, efficient, responsible future worldwide.
+
